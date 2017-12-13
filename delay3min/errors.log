@@ -1,0 +1,18 @@
+Failed creating lookup table at 1512706971.56: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1512706971.56: global name 'exit' is not defined
+Failed creating lookup table at 1512729390.14: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1512729390.14: global name 'exit' is not defined
+Failed creating lookup table at 1512802911.74: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1512802911.76: global name 'exit' is not defined
+Failed creating lookup table at 1512916582.0: [Errno socket error] [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1512916582.01: global name 'exit' is not defined
+Failed creating lookup table at 1513051866.39: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1513051866.39: global name 'exit' is not defined
+Failed creating lookup table at 1513079932.86: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1513079932.86: global name 'exit' is not defined
+Failed Solid Waste at 1513097211.95: [Errno socket error] [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1513097211.95: global name 'exit' is not defined
+Failed creating lookup table at 1513121977.34: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1513121977.34: global name 'exit' is not defined
+Failed creating lookup table at 1513152905.62: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+Failed main loop at 1513152905.62: global name 'exit' is not defined

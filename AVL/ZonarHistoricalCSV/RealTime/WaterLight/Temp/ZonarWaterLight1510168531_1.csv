@@ -1,2 +1,0 @@
-"Asset ID","Asset No.",Date,Time(CST),Speed(MPH),Heading,"Log Reason","Distance Traveled(Miles)",Lat,Lon,Zone,Address,Odometer,EXSID,Acceleration(Miles/Hour/Sec),"Status Mask","Fuel Counter(Gallon)","Air Temperature","Average RPM","Average Load","Fuel Level","Outside Pressure","Peak RPM","Average Torque","Boost Pressure","FFilter Dpressure","AFilter Dpressure","DPF Dpressure","Regen Status"
-227,535,2017-11-08,1510168529,39.1,314.89,Standard,0,38.9329886,-92.3768925,,,42088.7,,-4,40991,333.62,0,0,0,0,0,0,0,0,0,0,0,0

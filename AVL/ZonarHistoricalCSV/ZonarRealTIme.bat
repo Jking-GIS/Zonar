@@ -1,1 +1,0 @@
-C:\Python27\ArcGIS10.5\Python.exe C:\atlas_shared\AVL\ZonarHistoricalCSV\RealTimeCSV.py >> C:\atlas_shared\AVL\ZonarHistoricalCSV\ZonarRealTimeLOG.txt

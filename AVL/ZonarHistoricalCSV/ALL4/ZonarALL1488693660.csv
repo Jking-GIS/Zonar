@@ -1,4 +1,0 @@
-Asset ID,Asset No.,Date,Time(CDT),Speed(MPH),Heading,Log Reason,Distance Traveled(Miles),Lat,Lon,Zone,Address,Odometer,EXSID,Acceleration(Miles/Hour/Sec),Status Mask,Fuel Counter(Gallon),Location
-199,1806,2017-03-05,1488693606,0,357.83,Motion Stop,0,38.9462527,-92.3219533,,,3670.02,,-8,9247,0.00,Transit
-199,1806,2017-03-05,1488693619,7.5,2.67,Motion Start,0,38.9463063,-92.3219502,,,3670.02,,24,9247,0.00,Transit
-199,1806,2017-03-05,1488693644,29.6,1.90,Standard,0.2,38.948989,-92.3219049,,,3670.21,,0,8223,0.00,Transit
